@@ -3,7 +3,7 @@
 Phishing OSINT MODULE    
 
 
-Authors: (@networkseg1) - seguridadxredes[at]gmail.com
+Authors: (@alternume0) - alternume0[at]gmail.com
 
 Version 1.0.0
 
