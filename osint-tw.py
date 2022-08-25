@@ -181,7 +181,7 @@ if __name__ == '__main__':
     
         osint-tw.py -f "phishing and #phishing" -l "en,es"
     '''
-    par = argparse.ArgumentParser(description='@networkseg1 - Harvester phishing tweets',
+    par = argparse.ArgumentParser(description='@alternume0 - Harvester phishing tweets',
     epilog=intro, formatter_class=argparse.RawTextHelpFormatter)
     
     par.add_argument('-f', '--filter', help='words to filter in twitter', default='phishing and #phishing')
